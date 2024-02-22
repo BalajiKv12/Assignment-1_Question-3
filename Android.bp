@@ -1,0 +1,8 @@
+android_app_import {
+	name: "food", apk: "food.apk",
+	presigned: true,
+	owner: "Balaji",
+	dex_preopt: {
+		enabled: false,
+	},
+}
